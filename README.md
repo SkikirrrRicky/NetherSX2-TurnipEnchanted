@@ -13,6 +13,25 @@ Unlike the original build, this fork may use alternative Turnip driver versions 
 
 This project may include driver builds and configurations from developers such as [StevenMxz](https://github.com/StevenMxz), [K11MCH1](https://github.com/K11MCH1), and other community Turnip contributors.
 
+---
+
+### 💡 What is this project?
+
+This is a very small, independent project born from personal need, curiosity, and passion. 
+
+#### 🔧 What I actually do
+I don’t rewrite the emulator from scratch. My work is all about experimenting: **I inject different types of optimized, open-source custom drivers** into the build to see how they perform. 
+- Transparency is key: when a new release comes out, I will always provide a clear changelog with all the modifications and components used.
+
+#### 🎯 What is the goal?
+Honestly, there is no grand ambition. This project is purely experimental. Depending on your specific phone, your processor, and the drivers used, **this build might give you much better performance than the original one, or it might perform worse.** It depends on many individual factors, and anyone is free to test it or stick to the original.
+
+#### 🤝 Looking for contributors
+Since I want to keep improving this but face some personal limitations, I would love to get some backup. If any developer — **ideally a fellow Italian dev** — wants to join forces, give a hand, and help support the open-source community, you are more than welcome! Let's collaborate.
+
+---
+
+
 > 💡 **The Core Benefit:** Reduced UI glitches, black backgrounds, rendering artifacts, and improved compatibility on modern Adreno GPUs — with no external setup required.
 
 ---
