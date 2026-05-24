@@ -20,11 +20,15 @@ Full credits are accessible to everyone at the bottom of this page.
 
 This is a very small, independent project born from personal need, curiosity, and passion. 
 
+### 🎯 The goal is simple:
+
+NetherSX2 Turnip does not allow easy driver switching, so this project provides alternative builds with different pre-integrated custom Turnip drivers already injected directly into the APK.
+
+
 #### 🔧 What I actually do
 I don’t rewrite the emulator from scratch. My work is all about experimenting: **I inject different types of optimized, open-source custom drivers** into the build to see how they perform. 
 - Transparency is key: when a new release comes out, I will always provide a clear changelog with all the modifications and components used.
 
-#### 🎯 What is the goal?
 Honestly, there is no grand ambition. This project is purely experimental. Depending on your specific phone, your processor, and the drivers used, **this build might give you much better performance than the original one, or it might perform worse.** It depends on many individual factors, and anyone is free to test it or stick to the [original.](https://github.com/nckstwrt/NetherSX2-Turnip)
 
 #### 🤝 Looking for contributors
