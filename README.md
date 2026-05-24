@@ -12,6 +12,7 @@ A standalone **NetherSX2** build (based on the original Turnip fork by [nckstwrt
 Unlike the original build, this fork may use alternative Turnip driver versions and configurations depending on compatibility, stability, and testing results across different Adreno devices.
 
 This project may include driver builds and configurations from developers such as [StevenMxz](https://github.com/StevenMxz), [K11MCH1](https://github.com/K11MCH1), and other community Turnip contributors.
+Full credits are accessible to everyone at the bottom of this page.
 
 ---
 
@@ -57,8 +58,7 @@ If I find any positive results, performance boosts, or stability improvements du
 ## 🏅 Credits
 
 - NetherSX2 Turnip project: [nckstwrt](https://github.com/nckstwrt)
-- Turnip drivers and integrations: [StevenMxz](https://github.com/StevenMxz)
-- Additional driver sources: [K11MCH1](https://github.com/K11MCH1) & [MrPurple (antonio66690)](https://github.com/antonio66690)
+- Turnip drivers and integrations: [StevenMxz](https://github.com/StevenMxz),  [K11MCH1](https://github.com/K11MCH1) & [MrPurple (antonio66690)](https://github.com/antonio66690)
 - Community testing and compatibility research
 
 ---
