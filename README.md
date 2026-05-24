@@ -29,6 +29,10 @@ Honestly, there is no grand ambition. This project is purely experimental. Depen
 #### 🤝 Looking for contributors
 Since I want to keep improving this but face some personal limitations, I would love to get some backup. If any developer — **ideally a fellow Italian dev** — wants to join forces, give a hand, and help support the open-source community, you are more than welcome! Let's collaborate.
 
+#### 📢 My Commitment to the Open Source Community
+If I find any positive results, performance boosts, or stability improvements during my driver injection experiments, **I will share my findings directly with the original developers.** My goal isn't to split the community, but to give back: if a specific driver combination works better, I want the official project to benefit from it so everyone can have a better emulator.
+
+
 ---
 
 
