@@ -24,7 +24,7 @@ I don’t rewrite the emulator from scratch. My work is all about experimenting:
 - Transparency is key: when a new release comes out, I will always provide a clear changelog with all the modifications and components used.
 
 #### 🎯 What is the goal?
-Honestly, there is no grand ambition. This project is purely experimental. Depending on your specific phone, your processor, and the drivers used, **this build might give you much better performance than the original one, or it might perform worse.** It depends on many individual factors, and anyone is free to test it or stick to the original.
+Honestly, there is no grand ambition. This project is purely experimental. Depending on your specific phone, your processor, and the drivers used, **this build might give you much better performance than the original one, or it might perform worse.** It depends on many individual factors, and anyone is free to test it or stick to the [original.](https://github.com/nckstwrt/NetherSX2-Turnip)
 
 #### 🤝 Looking for contributors
 Since I want to keep improving this but face some personal limitations, I would love to get some backup. If any developer — **ideally a fellow Italian dev** — wants to join forces, give a hand, and help support the open-source community, you are more than welcome! Let's collaborate.
