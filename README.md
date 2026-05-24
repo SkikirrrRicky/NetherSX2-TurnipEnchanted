@@ -35,7 +35,7 @@ This project may include driver builds and configurations from developers such a
 
 - NetherSX2 Turnip project: [nckstwrt](https://github.com/nckstwrt)
 - Turnip drivers and integrations: [StevenMxz](https://github.com/StevenMxz)
-- Additional driver sources: [K11MCH1](https://github.com/K11MCH1)
+- Additional driver sources: [K11MCH1](https://github.com/K11MCH1) & [MrPurple (antonio66690)](https://github.com/antonio66690)
 - Community testing and compatibility research
 
 ---
