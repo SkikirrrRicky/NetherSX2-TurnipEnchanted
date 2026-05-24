@@ -64,7 +64,7 @@ If I find any positive results, performance boosts, or stability improvements du
 **Work in progress: I am currently organizing and tracking down all the original authors and contributors for the drivers used. If you see your work here and it's not credited yet, please let me know and I will add you immediately!**
 
 - NetherSX2 Turnip project: [nckstwrt](https://github.com/nckstwrt)
-- Turnip drivers and integrations: [StevenMxz](https://github.com/StevenMxz),  [K11MCH1](https://github.com/K11MCH1) & [MrPurple (antonio66690)](https://github.com/antonio66690)
+- Turnip drivers and integrations: [StevenMxz](https://github.com/StevenMxz),  [K11MCH1](https://github.com/K11MCH1) & [MrPurple](https://github.com/MrPurple666)
 - Community testing and compatibility research
 
 ---
